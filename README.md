@@ -1,6 +1,6 @@
 # Git Commit Prefixer
 
-This script helps to standardize Git commit messages by providing a menu in the terminal to select a commit type and automatically adding the current Git branch to the commit message.
+This script helps to standardise Git commit messages by providing a menu in the terminal to select a commit type and automatically adding the current Git branch to the commit message.
 
 ## Features
 
