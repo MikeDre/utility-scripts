@@ -10,7 +10,7 @@ This script helps to standardise Git commit messages by providing a menu in the 
   - 🔧 Updated:
   - ♻️ Changed:
   - 🗑 Removed:
-- Automatically appends the current branch name to the commit message (e.g., `♻️ Changed: Updated the logic [main]`).
+- Automatically appends the current branch name to the commit message (e.g., `♻️ Changed: Logo asset in footer [main]`).
 - Ensures consistent and readable Git commit messages.
 
 ## Setup
